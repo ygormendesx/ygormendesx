@@ -1,30 +1,32 @@
 # Ygor Mendes (aka Pl4yman)
 
-**Offensive Security Researcher · CTF Player · Bug Bounty Hunter**
+**Offensive Security Researcher | CTF Player | Bug Bounty Hunter**
 
-I explore how systems break, why vulnerabilities exist, and how seemingly small implementation details can become exploitable security flaws.
+I'm passionate about understanding how systems work, finding vulnerabilities, and exploring unconventional approaches to solving security challenges.
 
-My work and interests span web exploitation, binary exploitation, reverse engineering, cryptography, and exploit development. I enjoy challenges that require going beyond a known payload: reading code, testing assumptions, understanding unexpected behavior, and connecting the evidence into a working solution.
+My interests span multiple areas of cybersecurity, from application and binary exploitation to cryptography, reverse engineering, digital forensics, OSINT, blockchain security, and beyond.
 
-### What I document
+I enjoy investigating complex problems, challenging assumptions, developing custom tools, and turning technical discoveries into practical knowledge.
 
-I write technical walkthroughs that focus on the investigation behind a solve—not just the final payload or flag. My writeups explain the attack surface, the reasoning that led to the exploit, and the underlying root cause. When practical, I include reproducible code and the relevant technical evidence.
+### What I Do
 
-**[Explore my CTF writeups →](https://github.com/ygormendesx/Writeups-CTF2026)**
+My work and research focus on offensive security, vulnerability research, exploit development, and hands-on security challenges across different technologies and environments.
 
-The repository grows as I publish new research and selected challenge solutions. Its README contains the current index, so this profile stays up to date without listing individual events or challenges here.
+I actively participate in Capture The Flag competitions, exploring a wide range of challenge categories and documenting selected solutions.
 
-### Areas of interest
+### CTF Writeups
 
-`Web Security` · `Binary Exploitation` · `Reverse Engineering` · `Cryptography` · `Vulnerability Research` · `Exploit Development`
+I maintain [**Writeups-CTF2026**](https://github.com/ygormendesx/Writeups-CTF2026), a growing collection of technical investigations, exploitation techniques, and lessons learned from CTF challenges.
+
+Each writeup focuses on the reasoning behind the solution, the technical details of the exploit, and the underlying vulnerability, not just the final flag.
 
 ### Team
 
-CTF player with **f0rk(3);**.
+CTF player with **f0rk(3);**
 
 ### Contact
 
 - **Email:** [pl4yman@proton.me](mailto:pl4yman@proton.me)
 - **GitHub:** [@ygormendesx](https://github.com/ygormendesx)
 
-Feedback, corrections, alternative exploitation approaches, and technical discussions are always welcome.
+Feedback, alternative approaches, technical discussions, and collaboration opportunities are always welcome.
